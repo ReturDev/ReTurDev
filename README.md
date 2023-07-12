@@ -17,7 +17,7 @@ My name is Sergio, and I am a **Junior Software Developer**. I specialize in **J
 </a>
   </br>
 <a href="https://github.com/ReturDev/GymLog" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-1b71fc?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-1b71fc?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <p>GymLog is an application that helps you keep a detailed record of your workouts at the gym. With this application, you can create personalized training plans by selecting exercises already included in the app or even adding your own exercises.</p>
 </div>                                                                                
@@ -30,7 +30,7 @@ My name is Sergio, and I am a **Junior Software Developer**. I specialize in **J
 </a>
 </br>
 <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-1b71fc?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-1b71fc?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>The A&MVault app is a convenient tool for avid manga and anime enthusiasts to keep track of their favorite series. With this app, users can mark manga and anime titles as 'following,' 'watched,' 'pending,' and more, allowing them to organize their reading and viewing progress. </p>
 </div>                                                             
