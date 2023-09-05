@@ -1,7 +1,7 @@
 <h1 align="center">:wave:Hello! I am Sergio:wave:</h1>
 
 ## About me
-My name is Sergio, and I am a **Junior Software Developer**. I specialize in **Java** and have gained valuable experience in developing **native Android applications using Kotlin**.
+My name is Sergio, and I am a **Junior Software Developer**. I specialize in developing **native Android applications using Kotlin** and have experience working with Java.  I am passionate about mobile app development and am dedicated to continuously enhancing my skills. Feel free to explore my repositories and projects to learn more about my work!
 
 </br>
 </br>
