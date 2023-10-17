@@ -26,7 +26,7 @@ My name is Sergio, and I am a **Junior Software Developer**. I specialize in dev
 <h3 align="center">A&MVault</h3>
 <div align="center">                                       
 <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
-  <img src="https://i.postimg.cc/3R5wGMCg/in-progress.png" width="400" alt="Anime & Manga Vault">
+  <img src="https://postimg.cc/wy7qjxxc" width="400" alt="Anime & Manga Vault">
 </a>
 </br>
 <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
