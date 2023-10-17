@@ -8,33 +8,39 @@ My name is Sergio, and I am a **Junior Software Developer**. I specialize in dev
 
 ## Android proyects
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Gym Log</h3>
-<div align="center">
-<a href="https://github.com/ReturDev/GymLog" target="_blank">
-  <img src="https://i.postimg.cc/28f9qqfy/gym-log.jpg" width="400" alt="Gym Log">
-</a>
-  </br>
-<a href="https://github.com/ReturDev/GymLog" target="_blank">
-<img src="https://img.shields.io/badge/CODE-1b71fc?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>GymLog is an application that helps you keep a detailed record of your workouts at the gym. With this application, you can create personalized training plans by selecting exercises already included in the app or even adding your own exercises.</p>
-</div>                                                                                
-</td>
-<td width="50%">
-<h3 align="center">A&MVault</h3>
-<div align="center">                                       
-<a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
-  <img src="https://postimg.cc/wy7qjxxc" width="400" alt="Anime & Manga Vault">
-</a>
-</br>
-<a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
-<img src="https://img.shields.io/badge/CODE-1b71fc?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>The A&MVault app is a convenient tool for avid manga and anime enthusiasts to keep track of their favorite series. With this app, users can mark manga and anime titles as 'following,' 'watched,' 'pending,' and more, allowing them to organize their reading and viewing progress. </p>
-</div>                                                             
-</table> 
+   <tr>
+      <td width="50%" height="450">
+         <h3 align="center">Gym Log</h3>
+         <div align="center">
+            <a href="https://github.com/ReturDev/GymLog" target="_blank">
+            <img src="https://i.postimg.cc/28f9qqfy/gym-log.jpg" width="400" height="200" alt="Gym Log">
+            </a>
+            </br>
+            <a href="https://github.com/ReturDev/GymLog" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-1b71fc?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            </br>
+            <p>
+              GymLog is an application that helps you keep a detailed record of your workouts at the gym. With this application, you can create personalized training plans by selecting                  exercises already included in the app or even adding your own exercises.
+            </p>
+         </div>
+      </td>
+      <td width="50%" height="450">
+         <h3 align="center">A&MVault</h3>
+         <div align="center">                                       
+            <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
+            <img src="https://i.postimg.cc/63hyzTDS/Anime-Manga-Vault-All-Screens.png" width="400" height="200" alt="Anime & Manga Vault">
+            </a>
+            </br>
+            <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-1b71fc?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            </br>
+            <p>
+               The A&MVault app is a convenient tool for avid manga and anime enthusiasts to keep track of their favorite series. With this app, users can mark manga and anime titles as                  'following,' 'completed,' 'on_hold,' and more, allowing them to organize their reading and viewing progress. 
+            </p>
+         </div>
+</table>
 
 ### ⚙️ GitHub Analytics
 <div align="center">
