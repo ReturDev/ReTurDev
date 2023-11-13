@@ -28,7 +28,7 @@ My name is Sergio, and I am a **Junior Software Developer**. I specialize in dev
                <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank"><img src="https://img.shields.io/badge/Code-72DD77?style=for-the-badge&logo=github&logoColor=black"></a>
                <a href="https://mega.nz/file/1NsGEDRY#VSCAneE6SOvq1rJPHOUY3OLPo7pCOwyDh0tRAXZR1vQ" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD-018786?style=for-the-badge&logo=mega&logoColor=white"></a>
             </p>
-            <p>The A&MVault app is a convenient tool for avid manga and anime enthusiasts to keep track of their favorite series. With this app, users can mark manga and anime titles as 'following,' 'completed,' 'on_hold,' and more, allowing them to organize their reading and viewing progress. <b>(SOON IN GOOGLE PLAY)</b> </p>
+            <p>The A&MVault app is a convenient tool for avid manga and anime enthusiasts to keep track of their favorite series. With this app, users can mark manga and anime titles as 'following', 'completed', 'on_hold' and more, allowing them to organize their reading and viewing progress. <b>(SOON IN GOOGLE PLAY)</b> </p>
          </div>
       </td>
    </tr>
