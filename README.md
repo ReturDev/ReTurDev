@@ -65,6 +65,8 @@
             <a href="https://github.com/ReturDev/MultiPickers" target="_blank">
                <img src="https://img.shields.io/badge/Code-%238A68DF?style=for-the-badge&logo=github">
             </a>
+            </br>
+            </br>
             <p>Multipicker is a library that implements components in Compose, offering easy and customizable data selection in Android applications. It includes pickers for numbers, text, and more.</p>
          </div>
       </td>
