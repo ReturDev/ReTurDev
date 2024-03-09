@@ -2,8 +2,8 @@
    
    # Hello! 👋 I'm Sergio
    
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-mateo-moreno/)
-   [![Playstore](https://img.shields.io/badge/PlayStore-red?logo=googleplay)](https://play.google.com/store/apps/developer?id=Retur)
+   <!--[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-mateo-moreno/)
+   [![Playstore](https://img.shields.io/badge/PlayStore-red?logo=googleplay)](https://play.google.com/store/apps/developer?id=Retur)-->
 
    **Welcome to my GitHub profile!**
    
