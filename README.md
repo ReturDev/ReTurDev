@@ -35,7 +35,7 @@
          <h3 align="center">A&MVault</h3>
          <div align="center">
             <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
-               <img alt="Anime&MangaVault" src="https://github.com/ReturDev/ReTurDev/assets/79228896/3952cda7-4af8-48be-a5c1-16bffdceba32" width="400"/>
+               <img alt="AnimeMangaVault" src="https://github.com/ReturDev/ReTurDev/assets/79228896/3952cda7-4af8-48be-a5c1-16bffdceba32" width="400"/>
             </a>
             <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
                <img src="https://img.shields.io/badge/Code-%2307CC88?style=for-the-badge&logo=github">
@@ -46,7 +46,7 @@
             </br>
             </br>
             <p>
-            The A&MVault app is a convenient tool for avid manga and anime enthusiasts to keep track of their favorite series. With this app, users can mark manga and anime titles as 'following',                        'completed', 'on_hold' and more, allowing them to organize their reading and viewing progress.
+               The A&MVault app is a convenient tool for avid manga and anime enthusiasts to keep track of their favorite series. With this app, users can mark manga and anime titles as 'following',                        'completed', 'on_hold' and more, allowing them to organize their reading and viewing progress.
             </p>
          </div>
       </td>
