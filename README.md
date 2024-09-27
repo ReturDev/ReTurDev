@@ -110,11 +110,12 @@
 ## Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,firebase,mysql,git,gradle" />
+  </br>
+   <img src="https://skillicons.dev/icons?i=androidstudio,idea" />
   </a>
 </p>
 </br>
-
 ## ⚙️ GitHub Analytics
 <div align="center">
   <a href="https://github.com/ReTuRDev">
