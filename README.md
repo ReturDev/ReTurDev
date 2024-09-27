@@ -2,14 +2,48 @@
    
    # Hello! 👋 I'm Sergio
    
-   <!--[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-mateo-moreno/)
-   [![Playstore](https://img.shields.io/badge/PlayStore-red?logo=googleplay)](https://play.google.com/store/apps/developer?id=Retur)-->
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-mateo-moreno/)
+   [![Play Store](https://img.shields.io/badge/PlayStore-red?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Retur)
 
-   **Welcome to my GitHub profile!**
+   **Welcome to my GitHub profile!**  
    
-   I specialize in creating native Android applications using Kotlin, primarily focusing on the use of Jetpack Compose.
-
+   I'm a **Backend** and **Android developer** with a strong focus on **Java** and **Spring** for server-side applications, and **Kotlin** with **Jetpack Compose** for mobile development. I enjoy building efficient backend systems and creating modern, intuitive Android applications.
+   
 </div>
+
+---
+
+### 🌟 What I do:
+
+#### Backend Development:
+- Building robust and scalable RESTful APIs with **Java** and **Spring Boot**.
+- Designing efficient databases and integrating them seamlessly with backend services.
+  
+#### Android Development:
+- Crafting high-performance native Android apps using **Kotlin**.
+- Specializing in **Jetpack Compose** to create modern, responsive UIs.
+- Implementing clean architecture and best practices for scalable mobile applications.
+
+## Backend Projects
+<table>
+   <tr>
+      <td width="100%">
+         <h3 align="center">Gym Exercises API</h3>
+         <div align="center">
+            <a href="https://github.com/ReturDev/Gym-Exercises-API" target="_blank">
+               <img src="https://img.shields.io/badge/Code-%2307CC88?style=for-the-badge&logo=github">
+            </a>
+            </br>
+            </br>
+            <p>
+               The **Gym Exercises API** is a RESTful service built with **Java** and **Spring Boot** that provides information about various gym exercises. The API includes endpoints for fetching exercise details such as name, targeted muscle groups, and instructions.
+            </p>
+            </br>
+         </div>
+      </td>
+   </tr>
+</table>
+
 
 ## Android Proyects
 <table>
