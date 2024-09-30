@@ -24,7 +24,7 @@
 - Specializing in **Jetpack Compose** to create modern, responsive UIs.
 - Implementing clean architecture and best practices for scalable mobile applications.
 
-## Backend Projects
+<!--## Backend Projects
 <table>
    <tr>
       <td width="100%">
@@ -43,6 +43,7 @@
       </td>
    </tr>
 </table>
+-->
 
 
 ## Android Proyects
