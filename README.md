@@ -24,26 +24,29 @@
 - Specializing in **Jetpack Compose** to create modern, responsive UIs.
 - Implementing clean architecture and best practices for scalable mobile applications.
 
-<!--## Backend Projects
+## Backend Projects
 <table>
    <tr>
       <td width="100%">
          <h3 align="center">Gym Exercises API</h3>
          <div align="center">
             <a href="https://github.com/ReturDev/Gym-Exercises-API" target="_blank">
-               <img src="https://img.shields.io/badge/Code-%2307CC88?style=for-the-badge&logo=github">
+               <img alt="Gym-Exercises-Api-Graphic" src="https://github.com/user-attachments/assets/7840875f-44ad-4eaf-9973-4695983dbfde" width="400" height="300"/>
+            </br>
+            </a>
+            <a href="https://github.com/ReturDev/Gym-Exercises-API" target="_blank">
+               <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github">
             </a>
             </br>
             </br>
             <p>
-               The **Gym Exercises API** is a RESTful service built with **Java** and **Spring Boot** that provides information about various gym exercises. The API includes endpoints for fetching exercise details such as name, targeted muscle groups, and instructions.
+               API for managing equipment and exercises, featuring user authentication, CRUD operations, pagination, and robust error handling with detailed OpenAPI documentation.
             </p>
             </br>
          </div>
       </td>
    </tr>
 </table>
--->
 
 
 ## Android Proyects
