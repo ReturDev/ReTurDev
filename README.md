@@ -1,13 +1,19 @@
-<div align="center">
+<div>
    
    # Hello! 👋 I'm Sergio
-   
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-mateo-moreno/)
-   [![Play Store](https://img.shields.io/badge/PlayStore-red?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Retur)
 
    **Welcome to my GitHub profile!**  
    
-   I'm a **Backend** and **Android developer** with a strong focus on **Java** and **Spring** for server-side applications, and **Kotlin** with **Jetpack Compose** for mobile development. I enjoy building efficient backend systems and creating modern, intuitive Android applications.
+   I'm a **Backend** and **Android developer** with a strong focus on **Java** and **Spring** for server-side applications, and **Kotlin** with **Jetpack Compose** for mobile development. I enjoy building efficient backend    systems and creating modern, intuitive Android applications.
+
+   </br>
+   
+   <div align="center">
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-mateo-moreno/)
+   [![Play Store](https://img.shields.io/badge/PlayStore-red?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Retur)
+      
+   </div>
    
 </div>
 
@@ -23,6 +29,16 @@
 - Crafting high-performance native Android apps using **Kotlin**.
 - Specializing in **Jetpack Compose** to create modern, responsive UIs.
 - Implementing clean architecture and best practices for scalable mobile applications.
+
+## Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,firebase,mysql,git,gradle" />
+  </br>
+   <img src="https://skillicons.dev/icons?i=androidstudio,idea" />
+  </a>
+</p>
+</br>
 
 ## Backend Projects
 <table>
@@ -110,16 +126,6 @@
       </td>
    </tr>
 </table>
-
-## Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,firebase,mysql,git,gradle" />
-  </br>
-   <img src="https://skillicons.dev/icons?i=androidstudio,idea" />
-  </a>
-</p>
-</br>
 
 ## ⚙️GitHub Analytics
 <div align="center">
