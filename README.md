@@ -47,7 +47,7 @@
          <h3 align="center">Gym Exercises API</h3>
          <div align="center">
             <a href="https://github.com/ReturDev/Gym-Exercises-API" target="_blank">
-               <img alt="Gym-Exercises-Api-Graphic" src="https://github.com/user-attachments/assets/7840875f-44ad-4eaf-9973-4695983dbfde" width="400" height="300"/>
+               <img alt="Gym-Exercises-Api-Graphic" src="https://github.com/user-attachments/assets/7840875f-44ad-4eaf-9973-4695983dbfde" style="height:350px; width:auto;"/>
             </br>
             </a>
             <a href="https://github.com/ReturDev/Gym-Exercises-API" target="_blank">
@@ -69,10 +69,49 @@
 <table>
    <tr>
       <td width="50%">
+         <h3 align="center"> Multipicker </h3>
+         <div align="center">
+            <a href="https://github.com/ReturDev/MultiPickers" target="_blank">
+               <img alt="Multipickers" src="https://github.com/ReturDev/ReTurDev/assets/79228896/8a662f94-4814-4584-9e93-9ae1c1961bc1" style="height:250px; width:auto;"/>
+            </a>
+            </br>
+            <a href="https://github.com/ReturDev/MultiPickers" target="_blank">
+               <img src="https://img.shields.io/badge/Code-%238A68DF?style=for-the-badge&logo=github">
+            </a>
+            </br>
+            </br>
+            <p>Multipicker is a library that implements components in Compose, offering easy and customizable data selection in Android applications. It includes pickers for numbers, text, and more.</p>
+         </div>
+      </td>
+      <td width="50%">
+         <h3 align="center">A&MVault KMP</h3>
+         <div align="center">
+            <a href="https://github.com/ReturDev/AnimeMangaVaultKMP" target="_blank">
+               <img alt="AnimeMangaVaultKMP" src="https://github.com/user-attachments/assets/360a90a5-16a0-4203-b95f-159b316b53c3" style="height:250px; width:auto;"/>
+            </a>
+            </br>
+            <a href="https://github.com/ReturDev/AnimeMangaVaultKMP" target="_blank">
+               <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github">
+            </a>
+            </br>
+            </br>
+            <p>
+               WORK IN PROGRESS
+            </p>
+            </br>
+            </br>
+         </div>
+      </td>
+   </tr>
+</table>
+</br>
+<table>
+   <tr>
+      <td width="50%">
          <h3 align="center">StepWise</h3>
          <div align="center">
             <a href="https://play.google.com/store/apps/details?id=com.returdev.stepwise&hl=es" target="_blank">
-               <img alt="StepWise-Graphic" src="https://github.com/ReturDev/ReTurDev/assets/79228896/f878e200-14fe-4231-980f-0c572c9bd882" width="400"/>
+               <img alt="StepWise-Graphic" src="https://github.com/ReturDev/ReTurDev/assets/79228896/f878e200-14fe-4231-980f-0c572c9bd882" style="height:250px; width:auto;"/>
             </a>
             <a href="https://play.google.com/store/apps/details?id=com.returdev.stepwise&hl=es" target="_blank">
                <img src="https://img.shields.io/badge/Download-%234D667B?style=for-the-badge&logo=googleplay">
@@ -89,7 +128,7 @@
          <h3 align="center">A&MVault</h3>
          <div align="center">
             <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
-               <img alt="AnimeMangaVault" src="https://github.com/ReturDev/ReTurDev/assets/79228896/3952cda7-4af8-48be-a5c1-16bffdceba32" width="400"/>
+               <img alt="AnimeMangaVault" src="https://github.com/ReturDev/ReTurDev/assets/79228896/3952cda7-4af8-48be-a5c1-16bffdceba32" style="height:250px; width:auto;"/>
             </a>
             <a href="https://github.com/ReturDev/AnimeMangaVault" target="_blank">
                <img src="https://img.shields.io/badge/Code-%2307CC88?style=for-the-badge&logo=github">
@@ -102,26 +141,6 @@
             <p>
                The A&MVault app is a convenient tool for avid manga and anime enthusiasts to keep track of their favorite series. With this app, users can mark manga and anime titles as 'following',                        'completed', 'on_hold' and more, allowing them to organize their reading and viewing progress.
             </p>
-         </div>
-      </td>
-   </tr>
-</table>
-</br>
-<table>
-   <tr>
-      <td width="50%">
-         <h3 align="center"> Multipicker </h3>
-         <div align="center">
-            <a href="https://github.com/ReturDev/MultiPickers" target="_blank">
-               <img alt="Multipickers" src="https://github.com/ReturDev/ReTurDev/assets/79228896/8a662f94-4814-4584-9e93-9ae1c1961bc1" width="400"/>
-            </a>
-            </br>
-            <a href="https://github.com/ReturDev/MultiPickers" target="_blank">
-               <img src="https://img.shields.io/badge/Code-%238A68DF?style=for-the-badge&logo=github">
-            </a>
-            </br>
-            </br>
-            <p>Multipicker is a library that implements components in Compose, offering easy and customizable data selection in Android applications. It includes pickers for numbers, text, and more.</p>
          </div>
       </td>
    </tr>
