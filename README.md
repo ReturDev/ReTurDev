@@ -43,7 +43,25 @@
 ## Backend Projects
 <table>
    <tr>
-      <td width="100%">
+      <td width="50%">
+         <h3 align="center">Nexflow API</h3>
+         <div align="center">
+            <a href="https://github.com/ReturDev/NexFlow-API" target="_blank">
+               <img alt="Nexflow-API-Graphic" src="https://github.com/user-attachments/assets/bcf1e7a6-e5c9-45c0-9360-7345bec64572"/>
+            </br>
+            </a>
+            <a href="https://github.com/ReturDev/NexFlow-API" target="_blank">
+               <img src="https://img.shields.io/badge/Code-green?style=for-the-badge&logo=github">
+            </a>
+            </br>
+            </br>
+            <p>
+               API for orchestrating automated recurring financial plans and wallet management, featuring JWT-based security, role-based access control (RBAC), paginated data retrieval, and full auditability through structured exception handling.
+            </p>
+            </br>
+         </div>
+      </td>
+      <td width="50%">
          <h3 align="center">Gym Exercises API</h3>
          <div align="center">
             <a href="https://github.com/ReturDev/Gym-Exercises-API" target="_blank">
@@ -62,6 +80,7 @@
          </div>
       </td>
    </tr>
+   
 </table>
 
 
@@ -84,9 +103,9 @@
          </div>
       </td>
       <td width="50%">
-         <h3 align="center">A&MVault KMP</h3>
+         <h3 align="center">Nexflow</h3>
          <div align="center">
-            <a href="https://github.com/ReturDev/AnimeMangaVaultKMP" target="_blank">
+            <a href="https://github.com/ReturDev/NexFlow" target="_blank">
                <img alt="AnimeMangaVaultKMP" src="https://github.com/user-attachments/assets/360a90a5-16a0-4203-b95f-159b316b53c3" style="height:250px; width:auto;"/>
             </a>
             </br>
