@@ -103,7 +103,7 @@
          </div>
       </td>
       <td width="50%">
-         <h3 align="center">Nexflow</h3>
+         <h3 align="center">AnimeMangaVaultKMP</h3>
          <div align="center">
             <a href="https://github.com/ReturDev/NexFlow" target="_blank">
                <img alt="AnimeMangaVaultKMP" src="https://github.com/user-attachments/assets/360a90a5-16a0-4203-b95f-159b316b53c3" style="height:250px; width:auto;"/>
